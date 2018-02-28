@@ -1,0 +1,17 @@
+injectors
+===========
+@@common_module@@
+@@module_name@@
+@@controller_name@@
+@@model_name@@
+@@grid_action_model@@
+@@grid_config_model@@
+@@service_modele@@
+@@lang_module_name@@
+@@grid_mock_data@@
+
+
+string to replace
+=====================
+@@grid_action_method_name@@
+@@grid_action_name@@

@@ -1,0 +1,10 @@
+C:\Users\akapasi\Documents\Personal\RPN-Coder\RPN-Coder\bin\Release\RPN-Coder.exe.config
+C:\Users\akapasi\Documents\Personal\RPN-Coder\RPN-Coder\bin\Release\Properties\Resources.resx
+C:\Users\akapasi\Documents\Personal\RPN-Coder\RPN-Coder\bin\Release\Properties\Resources.Designer.cs
+C:\Users\akapasi\Documents\Personal\RPN-Coder\RPN-Coder\bin\Release\RPN-Coder.exe
+C:\Users\akapasi\Documents\Personal\RPN-Coder\RPN-Coder\bin\Release\RPN-Coder.pdb
+C:\Users\akapasi\Documents\Personal\RPN-Coder\RPN-Coder\obj\Release\RPN_Coder.Form1.resources
+C:\Users\akapasi\Documents\Personal\RPN-Coder\RPN-Coder\obj\Release\RPN-Coder.csproj.GenerateResource.Cache
+C:\Users\akapasi\Documents\Personal\RPN-Coder\RPN-Coder\obj\Release\RPN-Coder.exe
+C:\Users\akapasi\Documents\Personal\RPN-Coder\RPN-Coder\obj\Release\RPN-Coder.pdb
+C:\Users\akapasi\Documents\Personal\RPN-Coder\RPN-Coder\obj\Release\RPN_Coder.Properties.Resources.resources
